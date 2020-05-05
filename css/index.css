@@ -58,7 +58,7 @@
     width:100%;
     background-size:cover;
     background-repeat:no-repeat;
-    background-image: url("/css/eyewear/rainbow.jpeg");
+    background-image: url("eyewear/rainbow.jpeg");
     opacity:.2 black;
 }
 
@@ -128,7 +128,7 @@
     
 
 .detail-img{
-    background:linear-gradient(rgba(36, 33, 33,0.8), rgba(25, 26, 22,0.8)),url("/css/eyewear/yello-model.jpeg");
+    background:linear-gradient(rgba(36, 33, 33,0.8), rgba(25, 26, 22,0.8)),url("eyewear/yello-model.jpeg");
     height:75vh;
     width:100%;
     background-size:cover;
