@@ -348,7 +348,17 @@
         width:300px;
         
     }
+    .team-img img{
+        max-width:200px;
+        height:200px;
+       
+       
+    }
+    .section-team{
+        height:80vh;
+    }
 
+  
 }
 @media(max-width:720){
     
@@ -364,5 +374,7 @@
  .main-services{
     font-size:3px;
  }
+
+ 
 }
 
